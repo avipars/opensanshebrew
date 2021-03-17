@@ -5,3 +5,5 @@ I couldn't fine a single source with all the open sans hebrew fonts, so I made a
 Git clone the repo and then install the fonts as normal
 
 
+or download the ZIP - https://github.com/avipars/opensanshebrew/archive/master.zip
+
